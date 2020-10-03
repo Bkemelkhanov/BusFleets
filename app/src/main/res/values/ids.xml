@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_prodazha" type="id" />
+    <item name="nav_admin" type="id" />
+    <item name="nav_bus" type="id" />
+    <item name="nav_statistics" type="id" />
+    <item name="nav_passengers" type="id" />
+    <item name="nav_history" type="id" />
+    <item name="nav_schedule" type="id" />
+    <item name="nav_settings" type="id" />
+</resources>
